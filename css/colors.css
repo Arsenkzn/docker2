@@ -1,0 +1,12 @@
+:root {
+  --yellow-gradient: linear-gradient(90deg, #fedd2c 0%, #f9c201 100%);
+  --gradient-blackout: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 50%,
+    rgba(0, 0, 0, 0.5) 100%
+  );
+  --basalt-grey: rgba(85, 85, 85, 1);
+  --graphite-black: rgba(28, 28, 28, 1);
+  --white: rgba(255, 255, 255, 1);
+  --background-color-f9: #f9f9f9;
+}
