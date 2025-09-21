@@ -12,4 +12,5 @@ services:
       - ./html:/usr/share/nginx/html
       - ./css:/usr/share/nginx/html/css
       - ./images:/usr/share/nginx/html/images
+      - ./ssl:/etc/nginx/ssl
     restart: unless-stopped
